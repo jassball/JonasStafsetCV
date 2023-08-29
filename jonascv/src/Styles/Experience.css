@@ -1,0 +1,71 @@
+#exp {
+    margin-top: 200px;
+   
+}
+
+#exp>h1 {
+    font-size: 40px;
+}
+
+
+#headline>h4 {
+    margin: 10%;
+}
+
+#content>p {
+    margin-left: 4% ;
+    justify-content: center;
+}
+
+#row {
+    margin-top: 4%;
+}
+
+#text>h4{
+    margin-bottom: 5%;
+    border-bottom: 1px solid black;
+    padding: 1%;
+    color: rgb(0, 23, 175);
+}
+
+#text>p {
+    font-size: 18px;
+    padding: 1%;
+
+}
+
+.exp-desc>h1 {
+    font-size: 40px;
+    margin-top: 10%;
+}
+
+.exp-image {
+    border-radius: 5px;
+    width: 100%;
+    margin-left: 5%;
+    max-height: 250px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+
+
+#exp-desc-text>p{
+   font-size: 18px;
+   margin-top: 3%;
+}
+
+.exp-underline {
+    border-bottom: 1px solid black;
+}
+
+#border-top {
+    margin-top: 5%;
+    border-top: 1px solid;
+    padding-top: 3%;
+}
+
+#next-project>p {
+    margin-top:3% ;
+    font-size: 18px;   
+}

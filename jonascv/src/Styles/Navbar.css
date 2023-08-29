@@ -1,0 +1,39 @@
+nav {
+    background-color: #e5e5e8;
+    position: fixed;
+   
+}
+
+.navbar {
+    
+    padding: 1%;
+    padding-left: 2%;
+    font-size: 18px;
+    text-decoration: none;
+    transition: 0,5s;
+    
+    
+}
+
+#navbarNav {
+    width: 60%;
+}
+
+.nav-link {
+    box-shadow: #e5e5e8(17, 17, 26, 0.1) 0px 4px 0px;
+    color: black;
+    transition: 0.5s;
+    margin-left: 20px;
+   
+    
+}
+
+
+.nav-link:hover {
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 0px;
+}
+
+.active-page {
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 0px;
+}
+

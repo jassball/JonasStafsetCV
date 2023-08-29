@@ -1,0 +1,51 @@
+#work-exp {
+    margin-top: 200px;
+}
+
+#work-exp>h1 {
+    font-size:40px ;
+}
+
+#work>h4 {
+    border-bottom: 1px solid black;
+    margin-top: 15%;
+    font-size: 25px;
+   color: rgb(0, 23, 175);
+    margin-bottom: 5%;
+}
+
+#work>p {
+    font-size: 18px;
+    padding: 1%;
+}
+
+#work {
+  
+}
+
+.work-desc>h1 {
+    border-bottom: 1px solid black;
+    padding-bottom: 2%;
+    margin-top: 12%;
+    font-size:40px ;
+}
+
+#work-details {
+   margin-top: 3%;
+   margin-bottom: 3%;
+  
+}
+
+.blue-h5 {
+    color: rgb(0, 23, 175);
+
+}
+
+.heavy-h5>h5 {
+    font-weight: 600;
+}
+
+#border-bottom {
+    border-bottom: 1px solid black;
+    padding-bottom:3%;
+}

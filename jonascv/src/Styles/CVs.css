@@ -1,0 +1,46 @@
+
+body {
+    background-image: none;
+    background-color: rgb(255, 255, 255);
+
+}
+
+
+#sideBar {
+    padding: 3%;
+    border-right: 1px solid black;
+    margin-top: 10%;
+
+}
+
+#sideBar>h5 {
+    color: rgb(0, 23, 175);
+}
+
+#sideBar>p {
+    margin-top: 6%;
+    margin-bottom: 12%;
+    font-weight: bold;
+}
+
+#about {
+    margin-top: 10%;
+    
+}
+
+#about>h1 {
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+
+#about>h3 {
+    color: rgb(0, 23, 175);
+}
+
+#intro {
+    margin-top: 20%;
+    font-size: 18px;
+    padding: 1%;
+    border-radius: 5px;
+}
+
