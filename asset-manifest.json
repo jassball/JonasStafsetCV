@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CV.git/static/css/main.adda20b8.css",
+    "main.js": "/CV.git/static/js/main.5e5c9dba.js",
+    "static/js/787.a961df49.chunk.js": "/CV.git/static/js/787.a961df49.chunk.js",
+    "static/media/maze.png": "/CV.git/static/media/maze.8cf490bb2d33b1e71f91.png",
+    "static/media/Codeimage.png": "/CV.git/static/media/Codeimage.ee36de38d78344070811.png",
+    "static/media/javaimage.jpg": "/CV.git/static/media/javaimage.7d22247e96221c33514f.jpg",
+    "static/media/Streamdream.png": "/CV.git/static/media/Streamdream.992786885f8606e5a736.png",
+    "index.html": "/CV.git/index.html",
+    "main.adda20b8.css.map": "/CV.git/static/css/main.adda20b8.css.map",
+    "main.5e5c9dba.js.map": "/CV.git/static/js/main.5e5c9dba.js.map",
+    "787.a961df49.chunk.js.map": "/CV.git/static/js/787.a961df49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adda20b8.css",
+    "static/js/main.5e5c9dba.js"
+  ]
+}
