@@ -8,7 +8,7 @@ const Navbar =  () => {
 
     return (
         <nav className="navbar navbar-expand-lg fixed-top">
-        <Link to="/" className={`navbar-brand ${location.pathname === '/' ? 'active-page' : ''}`}>Jonas</Link>
+        <Link id='nav-link' to="/" className={`navbar-brand ${location.pathname === '/' ? 'active-page' : ''}`}>Jonas</Link>
         
         <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">

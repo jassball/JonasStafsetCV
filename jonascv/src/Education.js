@@ -33,14 +33,14 @@ const Education = () => {
 
         </div>
         <div className="row">
-        <h1 className="lang"><FontAwesomeIcon icon={faLanguage} /> Språk</h1>
-       <div id="lang-desc" className="col-md-6"><h4>Navn</h4></div>
-       <div id="lang-desc" className="col-md-6"><h4>Språk</h4></div>
-        <div className="col-md-6"><p>Norsk</p></div>
-        <div className="col-md-6"><p>Flytende/Morsmål</p></div>
+            <h1 className="lang"><FontAwesomeIcon icon={faLanguage} /> Språk</h1>
+            <div id="lang-desc" className="col-md-6"><h4>Navn</h4></div>
+            <div id="lang-desc" className="col-md-6"><h4>Språk</h4></div>
+            <div className="col-md-6"><p>Norsk</p></div>
+            <div className="col-md-6"><p>Flytende/Morsmål</p></div>
 
-        <div className="col-md-6"><p>Engelsk</p></div>
-        <div className="col-md-6"><p>Flytende</p></div>
+            <div className="col-md-6"><p>Engelsk</p></div>
+            <div className="col-md-6"><p>Flytende</p></div>
        </div>
 
 
