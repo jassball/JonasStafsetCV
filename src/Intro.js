@@ -1,13 +1,13 @@
 import './Styles/CVs.css';
 import Navbar from './Navbar';
 
-const CVEng = () => {
+const Intro = () => {
     return (
 
         <div className="container-fluid">
            <Navbar />
             <div className="row">
-                <div id="sideBar" className="col-md-3">
+                <div id="sideBar" className="col-lg-3">
                     {/* Left side content goes here */}
                     <h5>Kvalifikasjoner:</h5>
                         <p>Smidig utvikling, Målrettet, Effektiv, Kundehåndtering, 
@@ -15,7 +15,7 @@ const CVEng = () => {
                         Responsivt design, Prototyping. </p>
 
                     <h5>Programmeringskompetanse:</h5>
-                        <p>Javascript, Kotlin, Java, C++, HTML5, CSS, Swift, React Native, 
+                        <p>Javascript, Kotlin, Java, C#, Vue, Ionic, HTML5, CSS, Swift, React Native, 
                             MySQL, React.js, SwiftUI</p>
 
                     <h5>Teknologikompetanse:</h5>
@@ -26,15 +26,15 @@ const CVEng = () => {
              
                     
                 </div>   
-                    <div id="about" className="col-md-3">
+                    <div id="about" className="col-lg-3">
                         <h1>Jonas Willmann Stafset</h1>
                         <h3>Frontend developer</h3>
-                        <h4>Jonaswstafset@gmail.com</h4>
-                        <h4>+47 413 66 019</h4>
+                        <h4>Jonas...</h4>
+                        <h4>+47</h4>
                     </div>
 
                 
-                <div id="intro" className="col-md-4">
+                <div id="intro" className="col-lg-4">
                     <p>Mitt navn er Jonas Willmann Stafset og jeg er 
                         frontend utvikler. Gjennom en brennende interesse for 
                         teknologi har jeg tilegnet meg kunnskapene som skal til 
@@ -48,7 +48,7 @@ const CVEng = () => {
                         <p>I oppdrag med Vizrt var jeg utvikler hvor mitt hovedfokus var å skape et 
                             design som skulle være både brukervennlig og intuitivt. 
                             I løpet av min utdanning har jeg deltatt i flere gruppeprosjekter, noe som har
-                            gitt verdifull erfaring med prosjektarbeid i samarbeid med andre. Jeg har
+                            gitt verdifull erfaring med prosjektarbeid med andre. Jeg har
                             blitt omtalt som en effektiv lagspiller og har evnen til å kommunisere og
                             samarbeide godt med andre for å oppnå et felles mål. 
                         </p>
@@ -65,4 +65,4 @@ const CVEng = () => {
     );
 }
 
-export default CVEng;
+export default Intro;

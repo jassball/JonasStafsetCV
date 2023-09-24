@@ -1,10 +1,10 @@
 #exp {
-    margin-top: 200px;
+    margin-top: 150px;
    
 }
 
 #exp>h1 {
-    font-size: 40px;
+    font-size: 28px;
 }
 
 
@@ -14,30 +14,50 @@
 
 #content>p {
     margin-left: 4% ;
-    justify-content: center;
+    
 }
 
 #row {
     margin-top: 4%;
 }
 
-#text>h4{
-    margin-bottom: 5%;
+#exp-headlines {
+    width: 100%;
     border-bottom: 1px solid black;
+    margin-bottom: 3%;
+    
+
+}
+
+#exp-headlines>h4{
     padding: 1%;
     color: rgb(0, 23, 175);
+    font-size: 22px;
+    display: inline-block;
+   
+    
 }
 
 #text>p {
-    font-size: 18px;
-    padding: 1%;
+    font-size: 16px;
+ 
+    display: inline-block;
 
 }
 
 .exp-desc>h1 {
-    font-size: 40px;
+    font-size: 28px;
     margin-top: 10%;
 }
+
+#exp-desc-text>h4 {
+    font-size: 22px;
+}
+
+#next-project>h4 {
+    font-size: 22px;
+}
+
 
 .exp-image {
     border-radius: 5px;
@@ -51,25 +71,89 @@
 
 
 #exp-desc-text>p{
-   font-size: 18px;
+   font-size: 16px;
    margin-top: 3%;
 }
 
 .exp-underline {
+    padding-bottom: 2%;
     border-bottom: 1px solid black;
+
 }
 
-#border-top {
+#border-bottom {
     margin-top: 5%;
-    border-top: 1px solid;
-    padding-top: 3%;
+    border-bottom   : 1px solid;
+    margin-bottom: 40px;
 }
 
 #next-project>p {
     margin-top:3% ;
-    font-size: 18px;   
+    font-size: 16px;   
 }
 
 #last-exp {
     padding-bottom: 3%;
 }
+
+
+
+
+
+    #text {
+        
+        padding: 2%;
+        margin-top: 15px;
+        border-radius: 10px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;   
+        margin-left: 3%;
+        margin-right: 3%;
+        margin-bottom: 2%;
+        justify-content: space-between;
+     }
+
+    #text>p {
+        margin: 1%;
+        display: flex;
+
+    }
+
+    #exp-headlines>h4 {
+        font-size: 0px;
+    }
+
+    #font-weight {
+        font-weight: 600;
+    }
+
+
+
+    body {
+        overflow-y: none;
+
+    }
+
+    .exp-image {
+        margin-left: 0%;
+        
+    }
+
+
+    #border-right {
+        border-right: 1px solid black;
+        padding-right: 2%;
+    }
+
+    #icon {
+        font-size: 16px;
+        padding-right: 2%;
+        margin-top: 4px;
+    }
+
+    #git {
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+
+
+

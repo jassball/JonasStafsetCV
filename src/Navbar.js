@@ -7,7 +7,7 @@ const Navbar =  () => {
     const location = useLocation();
 
     return (
-        <nav className="navbar navbar-expand-lg fixed-top">
+        <nav className="navbar navbar-expand fixed-top">
         <Link id='nav-link' to="/" className={`navbar-brand ${location.pathname === '/' ? 'active-page' : ''}`}>Jonas</Link>
         
         <div className="collapse navbar-collapse" id="navbarNav">

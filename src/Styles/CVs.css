@@ -3,7 +3,15 @@ body {
     background-image: none;
     background-color: rgb(255, 255, 255);
     font-family: sans-serif;
+    overflow-y: none;
 
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 
@@ -16,12 +24,14 @@ body {
 
 #sideBar>h5 {
     color: rgb(0, 23, 175);
+    font-size: 17px;
 }
 
 #sideBar>p {
     margin-top: 6%;
     margin-bottom: 12%;
     font-weight: bold;
+    font-size: 14px;
 }
 
 #about {
@@ -36,12 +46,27 @@ body {
 
 #about>h3 {
     color: rgb(0, 23, 175);
+    font-size: 24px;
+}
+
+#about>h4 {
+    font-size: 22px;
 }
 
 #intro {
     margin-top: 20%;
-    font-size: 18px;
+    font-size: 16px;
     padding: 1%;
     border-radius: 5px;
+
 }
+
+
+
+@media only screen and (max-width: 1170px) {
+    #about>h4 {
+        font-size: 18px;}
+
+
+  }
 
