@@ -1,27 +1,19 @@
-import Navbar from "../Navbar";
 import "../Styles/Experience.css";
-import Introexp from "./Introexp"; 
+import Introexp from "./Introexp";
 import Desceexp from "./Descexp";
-
-
-
-
+import Transitions from "../Transitions";
 
 const Experience = () => {
-    return (
-        <>
-        <Navbar />
-        <div  id="exp" className="container">
-            
-       
-                            <Introexp />
-                        <div className="exp-desc">
-                            <Desceexp />
-
-                        </div>
+  return (
+    <>
+      <div id="exp" className="container">
+        <Introexp />
+        <div className="exp-desc">
+          <Desceexp />
         </div>
-        </>
-    );
-}
+      </div>
+    </>
+  );
+};
 
 export default Experience;

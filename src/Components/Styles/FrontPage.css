@@ -1,2 +1,25 @@
 
+.slide-in {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background:rgb(255, 255, 255);
+    filter: blur(50px);
+    opacity: 1;
+    transform-origin:bottom;
+}
 
+.slide-out {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    filter: blur(50px);
+    transition: 0.1s;
+    background:rgb(255, 255, 255);
+
+    transform-origin: top;
+}

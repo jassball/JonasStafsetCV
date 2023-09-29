@@ -157,9 +157,9 @@
         margin-top: 4px;
     }
 
-    #git {
+    .p-experience>a{
         padding-top: 1%;
-        padding-bottom: 1%;
+        padding-bottom: 50px;
     }
 
 

@@ -28,9 +28,16 @@ body {
 }
 
 #lang-card {
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     margin-left: 2%;
     padding: 1%;
     margin-bottom: 2%;
     border-radius: 10px;
 }
+
+#lang-border-bottom {
+    border-bottom: 1px solid black;
+    margin-bottom: 2%;
+    width: 40%;
+    
+}
+

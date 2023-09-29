@@ -1,18 +1,30 @@
 
-body {
-    background-image: none;
-    background-color: rgb(255, 255, 255);
+:root {
+    /* Dark mode */
+    --darkText : #d3d1d1;
+    --darkBackground : #03131A;
+    --darkAccentText : #D4FF9D;
+    --darkShadow: purple;
+
+    /* Light mode */
+    --lightText : #000000;
+    --lightBackground : rgb(255, 255, 255);
+    --lightAccentText : rgb(0, 23, 175);
+    --lightShadow : #000000;
+}
+
+body{
+    
+    background-image: linear-gradient(to right, #ffffff, #d7d7d7);
+    /* background-color: var(--darkBackground); */
     font-family: sans-serif;
     overflow-y: none;
-
    
-    
-
 }
 
 h1 {
     font-size: 30px;
-    font-weight: bold;
+    font-weight: normal;
     margin-top: 5%;
     margin-bottom: 5%;
 }
