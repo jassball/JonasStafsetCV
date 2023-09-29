@@ -1,6 +1,6 @@
-import Navbar from "./Navbar";
-import Introwork from "./Components/Introwork";
-import Descwork from "./Components/Descwork";
+import Navbar from "../Navbar";
+import Introwork from "./Introwork";
+import Descwork from "./Descwork";
 
 
 const Workexperience = () => {

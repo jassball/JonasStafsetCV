@@ -1,12 +1,12 @@
-import './Styles/CVs.css';
-import Navbar from './Navbar';
+import './Components/Styles/CVs.css';
+import Navbar from './Components/Navbar';
 
 const Intro = () => {
     return (
 
         <div className="container-fluid">
            <Navbar />
-            <div className="row">
+            <div id='flex-row' className="row">
                 <div id="sideBar" className="col-lg-3">
                     {/* Left side content goes here */}
                     <h5>Kvalifikasjoner:</h5>
@@ -29,8 +29,8 @@ const Intro = () => {
                     <div id="about" className="col-lg-3">
                         <h1>Jonas Willmann Stafset</h1>
                         <h3>Frontend developer</h3>
-                        <h4>Jonas...</h4>
-                        <h4>+47</h4>
+                        <h4>Jonaswstafset@gmail.com</h4>
+                        <h4>+47 413 660 19</h4>
                     </div>
 
                 
@@ -41,8 +41,8 @@ const Intro = () => {
                         for å skape gode brukerløsninger og visuelt flotte design.  
                         Våren 2024 er jeg ferdig med Bacheloren 
                         i Frontend- og mobilutvikling hos Høyskolen Kristiania.
-                        Her har min intersse fått blomstret videre og gitt meg kompetanse til å 
-                        dykke dypere i min lidenskap.
+                        Her har min interesse for teknologi blitt styrket og jeg har
+                        blitt utfordret på nye måter.
                         </p>
 
                         <p>I oppdrag med Vizrt var jeg utvikler hvor mitt hovedfokus var å skape et 

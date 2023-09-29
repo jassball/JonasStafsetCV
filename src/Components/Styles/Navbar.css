@@ -1,9 +1,9 @@
-nav {
+  nav {
     background-color: #ededed;
     position: fixed;
     
-}
 
+ }
 .navbar {
     
     padding: 1%;
@@ -48,4 +48,31 @@ nav {
 .active-page {
     box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 0px;
 }
+ 
+
+ @media only screen and (max-width: 500px) {
+
+
+    /* Make it make sense */
+    #nav-link {
+        font-size: 18px;
+        border-radius: 8px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 2px;
+        padding: 8px;
+    }
+
+    .nav-link {
+        font-size: 0px;
+    }
+
+    .nav-icon {
+        font-size: 18px;
+        border-radius: 8px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 3px;
+        padding: 8px;
+    }
+
+
+    
+ }
 

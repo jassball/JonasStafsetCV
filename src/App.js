@@ -2,8 +2,8 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Route, Routes} from "react-router-dom";
 import Intro from "./Intro";
-import Experience from "./Experience";
-import Workexperience from "./Workexperience";
+import Experience from "./Components/Experience/Experience";
+import Workexperience from "./Components/Work/Workexperience";
 import Education from "./Education";
 
 

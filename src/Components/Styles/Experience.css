@@ -1,3 +1,5 @@
+
+
 #exp {
     margin-top: 150px;
    
@@ -57,6 +59,11 @@
 #next-project>h4 {
     font-size: 22px;
 }
+
+#next-project>p {
+    font-size: 16px;
+}
+
 
 
 .exp-image {

@@ -1,5 +1,5 @@
-import Navbar from "./Navbar";
-import './Styles/Education.css';
+import Navbar from "./Components/Navbar";
+import './Components/Styles/Education.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {  faGraduationCap, faLanguage, faSchool, faFilePen, faCalendar } from "@fortawesome/free-solid-svg-icons";
 

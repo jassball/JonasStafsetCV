@@ -1,8 +1,8 @@
 import Streamdream from "../images/Streamdream.png";
 import CodeImage from "../images/Codeimage.png";
-import JavaImage from "../images/javaimage.jpg";
 import Maze from "../images/maze.png";
 import Android from "../images/android.jpg";
+import MyCV from "../images/JonasStafsetCV.png"
 
 
 
@@ -24,19 +24,11 @@ import Android from "../images/android.jpg";
             'image': CodeImage,
         },
         {
-            'title': "Stemplingssystem for tidsavgrensing",
-            'tech': "Java",
-            'desc': "Ble lagd for å loggføre forsentkomminger",
-            'longDesc' : "Jugendby barnehage hadde på et tidspunkt en del forsentkomminger. Såpass mange at daglig leder ville få oversikt på omfanget. Dette var en nokså enkel løsning med GUI og innloggingssystem.",
-            'github': "https://github.com/jassball/Projects",
-            'image': JavaImage,
-        },
-        {
             'title': "Mat og kaloriteller",
             'tech': "Kotlin, Postman",
             'desc': "Oppskrifter fra databaser og beregnet kalorier",
             'longDesc': "Android applikasjonen skulle knyttes til en API som hentet oppskrifter og baserte seg fra brukerens selvvalgte kalorimål. Applikasjonen tillater brukere å få favorisere og lagre måltid som gjør den effektiv i likhet med brukergrensesnittet.",
-            'github': "https://github.com/jassball/Projects",
+            'github': "https://github.com/jassball/Android-App-Project-H2022",
             'image': Android,
         },
         {
@@ -47,7 +39,15 @@ import Android from "../images/android.jpg";
             'github' : "https://github.com/jassball/Projects/tree/main/MazeEscape%20-%20Unity%20game",
             'image' : Maze,
             
-        }
+        }, 
+        {
+            'title': "Nettside med portefølje",
+            'tech' : "React, CSS, Firebase, Bootstrap, Fontawesome",
+            'desc' : "Nettside med portefølje",
+            'longDesc' : "Nettside med portefølje for kontinuerlig utvikling og framvisning av portefølje.",
+            'github' : "https://github.com/jassball/JonasStafsetCV",
+            'image' : MyCV,
+        },
 
        
     ];
