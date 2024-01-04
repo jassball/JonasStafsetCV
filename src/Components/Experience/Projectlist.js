@@ -3,6 +3,9 @@ import CodeImage from "../images/Codeimage.png";
 import Maze from "../images/maze.png";
 import Android from "../images/android.jpg";
 import MyCV from "../images/JonasStafsetCV.png";
+import SwiftImage from "../images/Recipes.jpeg";
+import VueIonic from "../images/VueIonic.jpeg";
+
 
 const Experiences = [
   {
@@ -52,6 +55,22 @@ const Experiences = [
     github: "https://github.com/jassball/JonasStafsetCV",
     image: MyCV,
   },
+  {
+    title: "Oppskriftskatalog i Swift",
+    tech: "SwiftUI, SwiftData, SwiftCore",
+    desc: "Oppskriftskatalog i Swift",
+    longDesc: "Oppskriftskatalog som henter oppskrifter fra API og lagrer dem lokalt på enheten. Dette ble gjort med Xcode versjon 15, som var ny på utviklingstidspunktet.",
+    github: "https://github.com/jassball/RecipeApp",
+    image: SwiftImage,
+  },
+  {
+    title: "Bildedelingsapplikasjon",
+    tech: "Vue, Ionic, Firebase, Typescript, Javascript, Capacitor",
+    desc: "Bildedelingsapplikasjon laget for IOS og Android",
+    longDesc: "Applikasjon med innloggings- og registreringssystem. Applikasjonen har også en funksjon for å laste opp bilder og dele dem med andre brukere. Videre kan brukere reagere og kommentere på hverandres innlegg som blir lagret i databasen. Applikasjonen er laget med Vue og Ionic.",
+    github: "https://github.com/jassball/TripAppVue",
+    image: VueIonic,
+  }
 ];
 
 export default Experiences;

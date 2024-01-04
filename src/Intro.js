@@ -30,14 +30,14 @@ const Intro = () => {
         </div>
         <div id="about" className="col-lg-3">
           <h1>Jonas Willmann Stafset</h1>
-          <h3>Frontend developer</h3>
+          <h3>Fullstack developer</h3>
           <h4>Jonaswstafset@gmail.com</h4>
           <h4>+47 413 660 19</h4>
         </div>
 
         <div id="intro" className="col-lg-4">
           <p>
-            Mitt navn er Jonas Willmann Stafset og jeg er frontend utvikler.
+            Mitt navn er Jonas Willmann Stafset og jeg er fullstack-npmutvikler.
             Gjennom en brennende interesse for teknologi har jeg tilegnet meg
             kunnskapene som skal til for å skape gode brukerløsninger og visuelt
             flotte design. Våren 2024 er jeg ferdig med Bacheloren i Frontend-
