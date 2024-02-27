@@ -32,12 +32,26 @@ body {
     padding: 1%;
     margin-bottom: 2%;
     border-radius: 10px;
+    height: 200px;
 }
 
-#lang-border-bottom {
+#lang-border-bottom-nor {
     border-bottom: 1px solid black;
     margin-bottom: 2%;
-    width: 40%;
     
+   
+    color: white;
+    background-image: url("/src/Components/images/NorwegianFlag.png");
+    background-size:contain;
+    
+}
+
+#textBackground {
+    background-color: #000000;
+    opacity: 0.5;
+    position: absolute;
+  
+    width: 30%;
+    border-radius: 10px;
 }
 

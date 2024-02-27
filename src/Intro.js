@@ -31,33 +31,31 @@ const Intro = () => {
         <div id="about" className="col-lg-3">
           <h1>Jonas Willmann Stafset</h1>
           <h3>Fullstack developer</h3>
-          <h4>Jonaswstafset@gmail.com</h4>
+          <h4>Jonas@wstafset.no</h4>
           <h4>+47 413 660 19</h4>
         </div>
 
         <div id="intro" className="col-lg-4">
           <p>
-            Mitt navn er Jonas Willmann Stafset og jeg er fullstack-npmutvikler.
-            Gjennom en brennende interesse for teknologi har jeg tilegnet meg
-            kunnskapene som skal til for å skape gode brukerløsninger og visuelt
-            flotte design. Våren 2024 er jeg ferdig med Bacheloren i Frontend-
-            og mobilutvikling hos Høyskolen Kristiania. Her har min interesse
-            for teknologi blitt styrket og jeg har blitt utfordret på nye måter.
+          Gjennom skolen og prosjekter på fritiden har jeg lært meg en rekke spennende teknologier. 
+          Full-stack utvikling av nettsider, native utvikling av applikasjoner og database håndtering 
+          er bare noe av det jeg kan så langt. Samtidig har jeg en enorm vilje for å tilegne meg ny 
+          kunnskap og syns det er utrolig spennende å prøve seg på et nytt felt.
           </p>
 
           <p>
-            I oppdrag med Vizrt var jeg utvikler hvor mitt hovedfokus var å
-            skape et design som skulle være både brukervennlig og intuitivt. I
-            løpet av min utdanning har jeg deltatt i flere gruppeprosjekter, noe
-            som har gitt verdifull erfaring med prosjektarbeid med andre. Jeg
-            har blitt omtalt som en effektiv lagspiller og har evnen til å
-            kommunisere og samarbeide godt med andre for å oppnå et felles mål.
+          Min evne til å analysere komplekse problemer har gjentatte ganger ført
+          til innovative og funksjonelle løsninger. Jeg tror på kraften av informerte beslutninger, 
+          og tar alltid hensyn til data og nøye analyse før jeg trekker konklusjoner. Som lagspiller 
+          er jeg engasjert i å dele ideer og kunnskap. Jeg er dedikert til ikke bare å arbeide sammen 
+          med kolleger, men også til å oppmuntre og inspirere til samarbeid for å oppnå best mulige resultater.
           </p>
 
           <p>
-            Jeg har mange års erfaring fra arbeid med kunder og deres unike
-            behov. Dette har gjort at jeg har utviklet gode kundeforhold og gode
-            evner til kundehåndtering.
+          Med min omfattende erfaring i kundeservice, har jeg utviklet en dyp forståelse 
+          for kundenes unike behov. Denne kunnskapen har gjort det mulig for meg å bygge sterke 
+          og varige kundeforhold, og i denne prosessen har jeg finslipt mine ferdigheter i effektiv 
+          kundehåndtering.
           </p>
         </div>
       </div>

@@ -2,7 +2,7 @@ const Worklist = [
   {
     company: "Power Norge AS",
     position: "Selger / NK",
-    period: "06.2022 - ",
+    period: "06.2022 - 31.10.2022",
     description:
       "Selger med utvidet ansvar. Arbeid med å hjelpe kunder, følge de opp og sørge for at de får hjelpen de trenger. Opprettholde butikkstandard og medansvarlig for at butikken når budsjett.",
   },
@@ -24,6 +24,13 @@ const Worklist = [
     period: "08.2016 - 12.2017",
     description: "",
   },
+  {
+    company: "Høyskolen Kristiania",
+    position: "Research Assistent",
+    period: "02.2024 - 06.2024",
+    description: "Som en del av mitt pågående arbeid som frontend-utvikler, vil jeg benytte min spesialisering i Vue.js og Ionic til å bidra til utviklingen av en applikasjon med fokus på å levere solide brukeropplevelser.",
+  
+  }
 ];
 
 export default Worklist;

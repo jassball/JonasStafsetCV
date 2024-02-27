@@ -3,7 +3,7 @@ import { Link, useLocation } from 'react-router-dom';
 import '../Components/Styles/Navbar.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLaptopCode, faBriefcase, faGraduationCap } from '@fortawesome/free-solid-svg-icons';
-
+import { fa } from '@fortawesome/free-solid-svg-icons';
 const Navbar = () => {
   const location = useLocation();
 
@@ -14,8 +14,9 @@ const Navbar = () => {
 
     <nav className='navbar navbar-expand fixed-top'>
         <Link id="nav-link" to="/"
-            className={`navbar-brand ${location.pathname === '/' ? 'active-page' : ''}`}
-            >Jonas
+            className={`navbar-brand ${location.pathname === '/' ? 'active-page' : ''}`}>
+          
+            Jonas
         </Link>
 
 

@@ -56,7 +56,7 @@ const Education = () => {
               entreprenørskap. Vi samarbeidet nært med det lokale næringslivet
               når vi fikk i oppgave å opprette en studentbedrift. Med bedriften
               ble vi sendt på messer for å presentere konseptet og fikk god
-              innføring i hvordan det er å være egen arbeidsgiver.{" "}
+              innføring i hvordan det er å være egen arbeidsgiver.<br></br><br></br>
             </p>
 
             <p>
@@ -71,14 +71,14 @@ const Education = () => {
         </h1>
 
         <div id="lang-card" className="row d-flex">
-          <div id="lang-border-bottom" className="d-flex">
-            <p className="col-md-6 col-sm-3 col-xs-2">Norsk</p>
-            <p className="col-md-6 col-sm-3 col-xs-2">Flytende/Morsmål</p>
+          <div id="lang-border-bottom-nor" className="d-flex">
+            <p id="textBackground" className="col-md-6 col-sm-3 col-xs-2">Norsk: Flytende/Morsmål</p>
+            <p className="col-md-6 col-sm-3 col-xs-2"></p>
           </div>
 
-          <div id="lang-border-bottom" className="d-flex">
-            <p className="col-md-6 col-sm-3 col-xs-2">Engelsk</p>
-            <p className="col-md-6 col-sm-3 col-xs-2">Flytende</p>
+          <div id="lang-border-bottom-eng" className="d-flex">
+            <p className="col-md-6 col-sm-3 col-xs-2">Engelsk: Flytende</p>
+            <p className="col-md-6 col-sm-3 col-xs-2"></p>
           </div>
         </div>
       </div>

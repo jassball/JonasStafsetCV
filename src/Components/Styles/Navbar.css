@@ -1,6 +1,8 @@
   nav {
-    background-color: #ededed;
+    
     position: fixed;
+    background-image: linear-gradient(to right, #ffffff, #d7d7d7);
+    
     
  }
  
@@ -8,9 +10,12 @@
     
     padding: 1%;
     padding-left: 2%;
-    font-size: 15px;
+    font-size: 17px;
     text-decoration: none;
     transition: 0,5s;
+    display: flex;
+    justify-content: center;
+    
     
     
 }
